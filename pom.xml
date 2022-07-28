@@ -3,4 +3,11 @@
   <groupId>com.omar</groupId>
   <artifactId>training2</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+   <!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
+  <dependencies><dependency>
+    <groupId>mysql</groupId>
+    <artifactId>mysql-connector-java</artifactId>
+    <version>8.0.29</version>
+</dependency></dependencies>
+  
 </project>
